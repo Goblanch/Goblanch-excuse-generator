@@ -1,1 +1,10 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.excuse-container {
+  width: 100%;
+  margin-top: 100px;
+  text-align: center;
+}
+#excuse {
+  font-size: 24px;
+}
